@@ -6,7 +6,7 @@ Thanks for your visit.
 
 ```javascript
 export default function Pizzaia(props) {
-    const { data, abilities} = props;
+    const { data, abilities } = props;
     
     return (
         <>
