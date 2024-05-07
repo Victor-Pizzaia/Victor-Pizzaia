@@ -1,7 +1,7 @@
 # Hi everyone 👋
 
 Very Welcome to my profile, here you will find several personal projects and challenges that I practice in courses.
-A lot of JavaScript, ReactJs and NodeJs.
+A lot of Java, Python, JavaScript, ReactJs and NodeJs.
 Thanks for your visit.
 
 ```javascript
@@ -27,13 +27,12 @@ function App() {
     }
     
     const abilities = [
+        Java,
+        Docker,
+        Python,
         JavaScript,
         React,
-        Node,
-        HTML,
-        CSS,
-        TypeScript,
-        Docker
+        Node
     ]
     
     return (
